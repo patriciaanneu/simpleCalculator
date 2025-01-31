@@ -10,7 +10,7 @@ Be sure to read the following general instructions carefully:
   - This assignment must be completed individually by all the students.
   - You will have to upload the solution on luminate.
 
-**Exercise**
+**Exercise**<br>
 Create a calculator application that performs basic arithmetic operations (addition, subtraction, multiplication, division) using a function with parameters and expression. Write the logic in an external JavaScript file.
 1. Create an **HTML file** with the following:
    - A dropdown to select an operation (e.g., addition, subtraction)
