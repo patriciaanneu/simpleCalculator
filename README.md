@@ -26,4 +26,6 @@ Create a calculator application that performs basic arithmetic operations (addit
    - Use expressions (+, -, *, /) to perform the calculation based on the operation parameter
    - Return the result
 4. Use the DOM manipulation to:
+   - Get values from the input fields and dropdown.
+   - Display the calculated result in the paragraph.
    
